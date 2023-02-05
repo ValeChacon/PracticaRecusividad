@@ -14,5 +14,7 @@ public class PracticaRecursividad {
 
     public static void main(String[] args) {
         RecursividadParteA recursividadParteA = new RecursividadParteA();
+        int contador = 5;
+        recursividadParteA.main(contador);
     }
 }

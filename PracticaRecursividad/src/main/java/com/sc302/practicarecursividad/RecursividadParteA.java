@@ -9,8 +9,9 @@ package com.sc302.practicarecursividad;
  * @author valed
  */
 class RecursividadParteA {
-    public void main() {
-        int contador = 5;
+
+    public void main(int contador) {
+        
         String oracion="hoy toca una practica semanal grupal";
         for (int x = 0; x < contador; x++){
             if (x == 0){
